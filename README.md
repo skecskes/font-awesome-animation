@@ -17,6 +17,11 @@ The files can be downloaded from:
 $ bower install font-awesome-animation
 ```
 
+### With npm
+```
+$ npm install font-awesome-animation --save
+```
+
 Installation
 ----------------
 Include CSS file in your index.html file: 
